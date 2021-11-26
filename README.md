@@ -1,2 +1,2 @@
 # MYLOGO-DESIGN
-LOGO
+LOGO Shot
